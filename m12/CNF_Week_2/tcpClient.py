@@ -17,7 +17,9 @@ def Main():
             # s.close()
         print(data)
         if(data == "ATTENDANCE-SUCCESS"):
-            s.close()
+            # s.close()
+            os.kill(os.getpid(), signal.CTRL_BREAK_EVENT)
+            break
 
 def send(s):
     while True:
