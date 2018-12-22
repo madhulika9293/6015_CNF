@@ -1,0 +1,5 @@
+https://www.google.co.in/search?q=how+to+read+csv+file+in+python&oq=how+to+read+csv+file+in+python&aqs=chrome..69i57.7214j0j1&sourceid=chrome&ie=UTF-8
+https://www.geeksforgeeks.org/working-csv-files-python/
+https://docs.python.org/2/library/csv.html
+https://stackoverflow.com/questions/42767250/python-csv2libsvm-py-attributeerror-csv-reader-object-has-no-attribute-nex
+https://stackoverflow.com/questions/36387596/python-typeerror-argument-after-must-be-a-sequence
